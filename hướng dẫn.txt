@@ -1,0 +1,2 @@
+Chạy Install-64bit.bat để cài đặt bản 64bit
+ngược lại Install-32bit.bat để cài đặt bản 32bit cho máy tính chạy Windows 32bit
